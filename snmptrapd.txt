@@ -1,0 +1,1 @@
+OPTIONS=-Lsd -m ALL -F "%02.2h:%02.2j:%02.2k TRAP%w.%q %v from %B" 11173 162

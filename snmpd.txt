@@ -1,0 +1,1 @@
+OPTIONS="-Ln -I -smux -p /var/run/snmpd.pid -c /etc/snmp/snmpd.conf udp:11114 udp:161"
